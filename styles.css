@@ -1,7 +1,7 @@
-div{
-	border: 15px solid blue;
-	padding:50px;
-	width:300px;
-	background-color:lightblue;
-	margin:20px
+#box {
+  width: 300px;
+  background-color: lightblue;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
 }
